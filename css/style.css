@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: #363535;
+  padding: 10px;
+}
+
+.header_titulo {
+  color: #fff;
+  text-align: center;
+}
+
+.conteudo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.produtoNome , .botaoAdiciona{
+  padding: 5px;
+}
+
+.lista {
+  margin-top: 20px;
+}
+
+div {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+li {
+  margin-right: 5px;
+}
